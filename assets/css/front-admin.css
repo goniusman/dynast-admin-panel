@@ -1,0 +1,34 @@
+.dynast-contact-form{padding:40px 0;max-width:500px;width:100%;margin:0 auto}
+.dynast-contact-form .form-group{margin-bottom:30px;position:relative}
+.dynast-contact-form .form-group:before{position:absolute;display:block;content:'';bottom:0;left:0;right:0;height:2px;background-color:#CBCBCB}
+.dynast-contact-form .form-group .form-control-msg{text-transform:uppercase;font-weight:500;font-size:10px}
+.dynast-contact-form .form-group.has-error:before{background-color:#a94442}
+.dynast-form-control{resize:vertical;border:none;border-radius:0;padding:8px 15px;outline:none;box-shadow:none !important;-webkit-box-shadow:none !important}
+.dynast-form-control::-webkit-input-placeholder{text-transform:uppercase}
+.dynast-form-control::-moz-placeholder{text-transform:uppercase}
+.dynast-form-control:-ms-placeholder{text-transform:uppercase}
+.dynast-form-control:-moz-placeholder{text-transform:uppercase}
+.dynast-form-control:hover,.dynast-form-control:focus,.dynast-form-control:active{box-shadow:none}
+.btn-dynast-form{-webkit-transition:all 320ms ease;-moz-transition:all 320ms ease;-ms-transition:all 320ms ease;-o-transition:all 320ms ease;transition:all 320ms ease;background-color:#0088cc !important;border-radius:2px;font-size:26px;padding:14px 60px;color:#fff;font-weight:100;border:none}
+.btn-dynast-form:hover,.btn-dynast-form:focus{background-color:#333;color:#fff}
+.form-control-msg{display:none}
+.has-error .form-control-msg{display:block}.js-show-feedback{display:block}
+/*# sourceMappingURL=dynast.css.map */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
